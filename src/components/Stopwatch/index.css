@@ -1,0 +1,88 @@
+.totalThing {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 80px;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/stopwatch-lg-bg.png');
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  background-position: center;
+}
+
+button {
+  cursor: pointer;
+}
+
+.headThing {
+  font-size: 50px;
+  margin-left: 90px;
+}
+
+img {
+  height: 30px;
+  margin-right: 20px;
+  margin-top: 6px;
+}
+
+p {
+  font-size: 35px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  margin-bottom: 40px;
+}
+
+.mainDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 400px;
+  height: 350px;
+  border-radius: 50px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  padding: 50px;
+}
+
+.imgParaDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+}
+
+.btnDiv {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 380px;
+}
+
+button {
+  border: 0;
+  height: 40px;
+  width: 85px;
+  font-size: large;
+  border-radius: 10px;
+  color: white;
+}
+
+.btn1 {
+  background-color: #1db05f;
+}
+
+.btn2 {
+  background-color: #ef0d36;
+}
+
+.btn3 {
+  background-color: #eaa800;
+}
+
+p {
+  font-weight: bold;
+}
