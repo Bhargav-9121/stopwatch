@@ -9,7 +9,7 @@ class Stopwatch extends Component {
   }
 
   componentWillUnmount() {
-    this.clearInterval(this.timer)
+    clearInterval(this.timer)
   }
 
   updateTimer = () => {
