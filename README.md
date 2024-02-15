@@ -24,7 +24,7 @@ The app must have the following functionalities
 <details>
 <summary>Image URLs</summary>
 
-- [https://assets.ccbp.in/frontend/react-js/stopwatch-timer.png](https://assets.ccbp.in/frontend/react-js/stopwatch-timer.png) alt should be **stopwatch** 
+- [https://assets.ccbp.in/frontend/react-js/stopwatch-timer.png](https://assets.ccbp.in/frontend/react-js/stopwatch-timer.png)
 - [https://assets.ccbp.in/frontend/react-js/stopwatch-sm-bg.png](https://assets.ccbp.in/frontend/react-js/stopwatch-sm-bg.png)
 - [https://assets.ccbp.in/frontend/react-js/stopwatch-lg-bg.png](https://assets.ccbp.in/frontend/react-js/stopwatch-lg-bg.png)
 </details>
