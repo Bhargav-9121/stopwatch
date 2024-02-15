@@ -19,38 +19,6 @@ The app must have the following functionalities
 - When the **Reset** button is clicked, then the Stopwatch should be reset to zero
 </details>
 
-<details>
-<summary>Implementation Files</summary>
-<br/>
-
-Use these files to complete the implementation:
-
-- `src/components/Stopwatch/index.js`
-- `src/components/Stopwatch/index.css`
-</details>
-
-### Quick Tips
-
-<details>
-<summary>Click to view</summary>
-<br>
-
-- You can use the `box-shadow` CSS property to apply the box-shadow effect to containers
-
-  ```
-    box-shadow: 0px 4px 16px 0px #bfbfbf;
-  ```
-
-  <br/>
-  <img src="https://assets.ccbp.in/frontend/content/react-js/box-shadow-img.png" alt="box shadow" style="width:200px" />
-
-- You can use `Math.floor()` function that returns the **largest integer less than or equal to a given number**
-
-  ```js
-  console.log(Math.floor(5.95)); // output: 5
-  ```
-</details>
-
 ### Resources
 
 <details>
